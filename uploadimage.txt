@@ -1,0 +1,28 @@
+===База даних uploadimage
+
+== Структура таблиці picturies
+
+|------
+|Стовпчик|Тип|Нуль|За замовчуванням
+|------
+|//**id**//|int(10)|Ні|
+|nameimage|text|Ні|
+|nameuser|text|Ні|
+|sizeimage|int(10)|Ні|
+|datetime|datetime|Ні|
+|image|text|Ні|
+|requested|int(11)|Ні|
+|thumb|text|Ні|
+== Дамп даних таблиці picturies
+
+|52|Lev|levcovsky|545322|2016-10-07 23:28:18|image/Lev.jpeg|0|image/thumds/Lev_thumb.jpeg
+|53|1|Vasiliy|457454|2016-10-08 08:11:09|image/1.jpeg|0|image/thumds/1_thumb.jpeg
+|54|2|Vasiliy|280850|2016-10-08 08:11:18|image/2.jpeg|0|image/thumds/2_thumb.jpeg
+|55|3|Vasiliy|108208|2016-10-08 08:11:26|image/3.jpeg|0|image/thumds/3_thumb.jpeg
+|56|4|Vasiliy|68553|2016-10-08 08:11:35|image/4.jpeg|0|image/thumds/4_thumb.jpeg
+|57|5|Vasiliy|1327481|2016-10-08 08:11:47|image/5.jpeg|0|image/thumds/5_thumb.jpeg
+|58|6|Vasiliy|1266823|2016-10-08 08:12:01|image/6.jpeg|0|image/thumds/6_thumb.jpeg
+|59|7|Vasiliy|1271911|2016-10-08 08:12:32|image/7.jpeg|0|image/thumds/7_thumb.jpeg
+|60|8|Vasiliy|1265599|2016-10-08 08:12:46|image/8.jpeg|0|image/thumds/8_thumb.jpeg
+|61|9|Vasiliy|1302072|2016-10-08 08:12:58|image/9.jpeg|0|image/thumds/9_thumb.jpeg
+|62|10|Vasiliy|1109195|2016-10-08 08:26:34|image/10.jpeg|0|image/thumds/10_thumb.jpeg
